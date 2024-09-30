@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-ingredients-chart-app/static/css/main.f2223e29.css",
+    "main.js": "/food-ingredients-chart-app/static/js/main.634a6a61.js",
+    "index.html": "/food-ingredients-chart-app/index.html",
+    "main.f2223e29.css.map": "/food-ingredients-chart-app/static/css/main.f2223e29.css.map",
+    "main.634a6a61.js.map": "/food-ingredients-chart-app/static/js/main.634a6a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2223e29.css",
+    "static/js/main.634a6a61.js"
+  ]
+}
