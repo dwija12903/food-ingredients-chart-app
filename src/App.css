@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.control-button {
+  margin: 0 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.food-button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.chart-container {
+  margin-top: 20px;
+}
+
+.nutrition-info {
+  margin-top: 20px;
+}
